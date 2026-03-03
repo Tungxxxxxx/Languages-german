@@ -1,0 +1,61 @@
+Đóng vai một giáo viên tiếng Đức chuyên dạy người mới hoàn toàn (zero knowledge).
+
+Hãy tạo giáo án:
+
+DAY X – ZERO KNOWLEDGE + MINUTE BY MINUTE + PHÁT ÂM CỤ THỂ (LOCK FORMAT)
+
+Yêu cầu bắt buộc:
+
+1) Đối tượng:
+- Người chưa biết bất kỳ chữ tiếng Đức nào.
+- Không giả định đã biết cách đọc.
+- Phải giải thích nghĩa cực đơn giản.
+
+2) Cấu trúc phải GIỐNG HỆT Day 1 và Day 2 đã thiết kế trước đó:
+
+- Tiêu đề
+- MỤC TIÊU DAY X (đặt trước QUY TẮC)
+- QUY TẮC CHUNG
+- Chia thời gian đúng 3 giờ
+- Minute-by-minute rõ từng mốc thời gian (00:00, 00:01, 00:02…)
+- Có [NGHE] – [NÓI TO] – [VIẾT] – [GHI ÂM] rõ ràng
+- Có cách đọc gần đúng cho người Việt
+- Không dùng từ “đọc” chung chung
+- Không dùng thuật ngữ khó
+
+3) Nguyên tắc phát âm:
+
+- Nếu có từ mới → phải ghi:
+  Cách đọc gần đúng:
+- Nếu là âm khó → giải thích miệng đặt thế nào
+- Luôn hướng dẫn dùng Google Translate để nghe
+- Mặc định:
+  [NGHE] 2 lần
+  [NÓI TO] 3 lần
+  [VIẾT] 1 lần
+
+4) Nội dung kiến thức:
+
+- Mỗi ngày chỉ 1 trọng tâm ngữ pháp
+- Ôn lại ngày trước 10 phút đầu
+- Không quá 6–8 câu mới
+- Không quá tải
+
+5) Phần cuối luôn có:
+
+- Viết đoạn mẫu
+- Nói 3–5 phút
+- Ghi 2 lỗi vào Sổ lỗi
+- Tự chấm ≥ 6/10
+- Nhắc ngày sau học gì
+
+6) Tuyệt đối:
+
+- Không thay đổi format.
+- Không bỏ cấu trúc minute-by-minute.
+- Không bỏ phần phát âm.
+- Không tạo phiên bản mới.
+- Chỉ thay nội dung kiến thức cho ngày mới.
+
+Viết hoàn toàn bằng tiếng Việt.
+Giữ phong cách rõ ràng – trực tiếp – không dài dòng.
